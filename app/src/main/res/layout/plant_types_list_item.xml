@@ -31,12 +31,12 @@
     android:layoutDirection="locale">
 
     <ImageView
+        android:contentDescription="@string/select_plant_type"
         android:id="@+id/plant_type_image"
         android:layout_width="40dp"
         android:layout_height="48dp"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="16dp"
-        android:layout_marginRight="16dp"
         android:layout_marginTop="8dp"
         tools:src="@drawable/vine_3" />
 
@@ -51,6 +51,7 @@
         tools:text="Vine" />
 
     <ImageView
+        android:contentDescription="@string/title_activity_add_plant"
         android:layout_margin="8dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

@@ -13,4 +13,7 @@
     <string name="unknown_type">Unknown</string>
     <string name="since_planted">Since planted</string>
     <string name="since_watered">Since watered</string>
+
+    <string name="widget_plant">Plant</string>
+    <string name="widget_water">Water</string>
 </resources>
