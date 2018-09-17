@@ -21,6 +21,6 @@ String type = plantTypes.getString(0); // this will return "vine"
 <resources>
     <array name="plant_types">
         <item>vine</item>
-        <item>cactus</item>
+        <item>vine</item>
     </array>
 </resources>
